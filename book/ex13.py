@@ -1,3 +1,9 @@
+# README
+# for run:
+# python3.6 ex13.py arg1 arg2 arg3
+#
+# Exmaple:  python3.6 ex16_sd.py first 2nd third
+
 from sys import argv
 # read the WYSS section for how to run this
 script, first, second, third = argv
