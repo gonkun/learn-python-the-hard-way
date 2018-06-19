@@ -19,7 +19,8 @@ print("If you do want that, hit RETURN.")
 input("?")
 
 print("Opening the file...")
-# Using 'open()' module for open a file with mode 'r+' (read and write) and save object inside 'target'.
+# Using 'open()' module for open a file with mode 'r+' (read and write)
+# and save object inside 'target'.
 target = open(filename, 'r+')
 
 print("Truncating the file. Goodbye!")
